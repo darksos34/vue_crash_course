@@ -18,18 +18,27 @@ export default {
       todos: [
         {
           id: 1,
-          title: "Todo One",
+          title: "Vue Course",
+          description: "Vue Crash Course 30 min left",
           completed: false,
         },
         {
           id: 2,
-          title: "Todo Two",
-          completed: true,
+          title: "Marktplaats",
+          description: "Samsung S7 Edge, Gasfornuis, Seat ibizi diesel",
+          completed: false,
         },
         {
           id: 3,
-          title: "Todo Three",
+          title: "Belangrijke taken",
+          description: "Check agenda en white",
           completed: false,
+        },
+        {
+          id: 4,
+          title: "Todo Unreal Engine 4",
+          description: "Finish your menu tutorial before saturday",
+          completed: true,
         },
       ],
     };
