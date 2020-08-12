@@ -1,4 +1,5 @@
 <template>
+  <img alt="now" src="../assets/AudiLogo.png" />
   <div>
     <div v-bind:key="todo.id" v-for="todo in todos">
       <TodoItem v-bind:todo="todo" v-on:del-todo="$emit('del-todo',
@@ -9,6 +10,7 @@
 
 <script>
 import TodoItem from "./TodoItem.vue";
+
 export default {
   name: "Todos",
   components: {
