@@ -21,32 +21,7 @@ export default {
 
   data() {
     return {
-      todos: [
-        {
-          id: 1,
-          title: "Vue Course",
-          description: "Vue Crash Course 30 min left",
-          completed: false,
-        },
-        {
-          id: 2,
-          title: "Marktplaats",
-          description: "Samsung S7 Edge, Gasfornuis, Seat ibizi diesel",
-          completed: false,
-        },
-        {
-          id: 3,
-          title: "Belangrijke taken",
-          description: "Check agenda en white",
-          completed: false,
-        },
-        {
-          id: 4,
-          title: "Todo Unreal Engine 4",
-          description: "Finish your menu tutorial before saturday",
-          completed: true,
-        },
-      ],
+      todos: [],
     };
   },
   methods: {
