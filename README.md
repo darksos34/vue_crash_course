@@ -1,6 +1,9 @@
-Learning how to be creative with Vue
+Created on 12-08-2020
 
-## Quick Start
+Updated on 15-08-2020
+
+Contributed by Jordy Hamwijk (Full stack Developer)
+# Quick Start
 
 ```bash
 # Install dependencies
