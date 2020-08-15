@@ -1,22 +1,14 @@
 <template>
   <div class="hello">
-    <h1>
-      Welcome to my first Vue app.
-      <br />
-
-      <br />Keep up the good work developer!
-      <br />
-
-      <br />Enjoy, drink enough.
-    </h1>
+    <h1>Hello World</h1>
   </div>
 </template>
 
 <script>
 export default {
-  name: "HelloWorld",
+  name: 'HelloWorld',
   props: {
-    msg: String,
+    msg: String
   }
 }
 </script>
