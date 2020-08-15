@@ -17,13 +17,14 @@ npm run build
 ```
 
 
-Plan that needs to be done!
+### Plan that needs to be done!
 
-Rebuild code and add more components.
-front-end Vue
-Add pictures
-Add style Css
-Add Logica Javascript
-
+- Rebuild code and add more components.
+- front-end Vue
+- Add pictures
+- Add style Css
+- Add Logica Javascript
+<br/>
 Connect with the backend and database
+
 add back-end  Java or C#
