@@ -1,6 +1,6 @@
 Created on 12-08-2020
 
-Updated on 06-01-2021
+Updated on 08-02-2021
 
 Contributed by Jordy Hamwijk (Full stack Developer)
 # Quick Start
@@ -17,6 +17,7 @@ npm run build
 ```
 
 
+
 ### Plan that needs to be done!
 
 Structure all folders
@@ -30,7 +31,6 @@ HTTP request
 
 Axios/Fetch
 - Rebuild code and add more components.
-- front-end Vue
 - Add pictures
 - Add style Css
 - Add Logica Javascript Vanilla
