@@ -11,20 +11,20 @@
     "axios": "^0.21.1",
     "run": "^1.4.0",
     "uuid": "^3.4.0",
-    "vue": "^2.6.11",
-    "vue-router": "^3.4.3",
+    "vue": "^2.6.12",
+    "vue-router": "^3.5.1",
     "vuelidate": "^0.7.6",
-    "vuetify": "^2.4.3",
-    "webpack-dev-server": "^3.11.1"
+    "vuetify": "^2.4.8",
+    "webpack-dev-server": "^3.11.2"
   },
   "devDependencies": {
-    "@vue/cli-plugin-babel": "^3.3.0",
-    "@vue/cli-plugin-eslint": "^3.3.0",
-    "@vue/cli-service": "^4.5.10",
+    "@vue/cli-plugin-babel": "^3.12.1",
+    "@vue/cli-plugin-eslint": "^3.12.1",
+    "@vue/cli-service": "^4.5.12",
     "babel-eslint": "^10.1.0",
     "eslint": "^5.16.0",
     "eslint-plugin-vue": "^5.2.3",
-    "vue-template-compiler": "^2.6.11"
+    "vue-template-compiler": "^2.6.12"
   },
   "eslintConfig": {
     "root": true,
