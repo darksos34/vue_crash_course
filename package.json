@@ -10,6 +10,7 @@
   "dependencies": {
     "axios": "^0.21.1",
     "is-svg": "^4.3.1",
+    "normalize-url": "^6.0.1",
     "postcss": "^8.3.3",
     "run": "^1.4.0",
     "ssri": "^8.0.1",
