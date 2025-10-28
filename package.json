@@ -19,7 +19,7 @@
     "vue": "^3.5.22",
     "vue-router": "^3.5.1",
     "vuelidate": "^0.7.6",
-    "vuetify": "^2.4.8",
+    "vuetify": "^2.6.10",
     "webpack-dev-server": "^5.2.1"
   },
   "devDependencies": {
