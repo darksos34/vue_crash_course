@@ -8,7 +8,7 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
-    "axios": "^0.21.1",
+    "axios": "^0.30.2",
     "glob-parent": "^6.0.0",
     "is-svg": "^4.4.0",
     "normalize-url": "^6.0.1",
